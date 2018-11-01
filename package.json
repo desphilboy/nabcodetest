@@ -1,0 +1,30 @@
+{
+  "name": "nabcodetest",
+  "version": "1.0.0",
+  "description": "code test for nab",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desphilboy/nabcodetest.git"
+  },
+  "author": "Iman Dezfuly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desphilboy/nabcodetest/issues"
+  },
+  "homepage": "https://github.com/desphilboy/nabcodetest#readme",
+  "dependencies": {
+    "react": "^16.6.0",
+    "webpack": "^4.23.1"
+  },
+  "devDependencies": {
+    "commitizen": "^3.0.4",
+    "cz-conventional-changelog": "^2.1.0",
+    "enzyme": "^3.7.0",
+    "jest": "^23.6.0",
+    "json-stub-server": "0.0.10"
+  }
+}
